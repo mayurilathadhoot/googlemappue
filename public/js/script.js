@@ -132,7 +132,7 @@ $(document).ready(function(){
 	};
 */	
 	
-	var locations = [
+/*	var locations = [
 	                 ['Bondi Beach', -63.890542, 151.274856, 4],
 	                 ['Coogee Beach', -33.923036, 151.259052, 5],
 	                 ['Cronulla Beach', -34.028249, 151.157507, 3],
@@ -140,7 +140,7 @@ $(document).ready(function(){
 	                 ['Maroubra Beach', -33.950198, 151.259302, 1]
 	               ];
 	
-	
+*/	
 	 
 	    
 	    
